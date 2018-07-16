@@ -1,1 +1,15 @@
 /* add CSS class and element and selectors here */
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+128+Text');
+
+    body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+      .myClass {
+      background-color: gray;
+      color: blue;
+      font-family: Libre Barcode 128 Text;
+      font-size: 300%;
+    }
